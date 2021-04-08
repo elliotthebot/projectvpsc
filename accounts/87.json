@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-mantra-310117",
+  "private_key_id": "faf6443115852d9ebd7eee73c448d19f8b036caa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqjltg0Ec3q8Jj\n+mxV/Hl42vArfazKjRWcZE4bj9Q5chOLcjisLS+x5+Xsb6mO2APlcJBf1QQAggXq\n9tjzZYMGljBV+dBj1i/aZ5NXUb1ZqrICjyItcPqVjYHIND/sbUZYDCn1W2hUtAAl\noZdCO5HWupOv3MZAUiLa9rV/CL6FUW2i+shNIcPu3sjjAAL+YRVP0qlB8AEX+Xfw\nUjgXBmP84o12CKP60AQp/gm33j4wQLyjZSYfN8dydALyhpDU58ofgLEZLricohyM\nS7RmFfhEfWU4eHBeW5afxRdi0lGyKZfI73aFpLg1fRF13d2VfluVEvplDUwZ8h/n\nore1VnafAgMBAAECggEAEAxGB9WBJflY2JxrDior6dW77HOuSv68blM30DsXznHv\n6dqM/5Je3wABb95P13t23mNZilLaRgv175Zbcod2LSv7j1NqqsIwDX5abEhqJyI7\nDqeWIS10vpaqhAJ6k03y5Pz8A7Sem/2119SdDWPahJhYph8BXnL8CZtWF4ZkmtmX\nqMBIAIB0TO4yRp3gSNxjKf4dhUnHuFAp3n2d6IPGmWOwIqIyGowoP6IhF4+rVMvz\nsqCdyGbHlzAPNz4CoowNY+TyeNCV+pZ730bjg/Sm+qTQ+yq1KReuvi3g6X0lzgNU\nASgryvSRdmlbxQ4MLSznLy+hy8jN53J2j8bc8ikHrQKBgQDgq/1hzVOdX4ICKME4\npy42T+tghfOMzz4FWiJH6llLZTxzKS9ZxQlvkthcZsXMVjJgGIcbNZmwbJdjrwGh\nS7B9bBrw6qzCDELa6ulib+RAp30PSFGEz39K56ohWY0ek8so/j9805E1OBMI9lS0\nGZSzu2s8/hZkbm7iILlgvmXVTQKBgQDCVp8MQWPMX865sx6EUPwx/gthazT539Re\nnJoTFTZ2mGz6Qh/QOt8FL9KDi47ZVBOdAuol2tXyvY7Ok/HKywzqcBaWfXdSvXAS\nSvs02HvINPQQHHYIkHchplpPAfDEebdgjYdwPENxmJpz1n7rSS20N8bLJaMUPwpZ\nr4VnnGsVmwKBgAhmJZjMZj3R3jhaca6+gTnCjxgSqeIvtS/aCMILfr8Uz8e2WHDQ\nruOe57u8k9RpvIRfJl3cCRzRUm+FkVgITlbB/dfXzhGLB8zLT2JAsJXCLSivGW0P\nnMCeHHwWrvHfsI6dwp3WAu2sZPnGy6/X7PkzHnUvQoMKpdaKRqPZOlFZAoGBAIsp\noEcUZDSrvss3uvihTZc3BktCi/MLF3aQybw0ioWubQtgYouoPJ/oOOU+AJMcI9dh\niO6GoIJsv2CqjJDdimguz94ABnxXb3OKAg07oJgjY0pONy+207hi+XRuPU1Uo74e\nWwhB/0HPN3sP9F7kTjgpYM+EKh2Lbwv+JpelaQFVAoGAPyu5Cw02fEBWd8njcyTO\nrTT4ZnTstgDyRVcrp0UH9OZ8Uci8ZJ/jqtOosY1yfEVq45q+t/SnKxyu04uLAn1Q\nfDWrenVkA+pDHtgGvHjOkDflqPIxMegSJYc0u4f0cXlmZMJMwLHxwa3UwRYkR4dn\nYrkz9jd6eT4unuawKMteilo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-9w194z7dknpmtovevjz33vabqr@zinc-mantra-310117.iam.gserviceaccount.com",
+  "client_id": "105549772940371966312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-9w194z7dknpmtovevjz33vabqr%40zinc-mantra-310117.iam.gserviceaccount.com"
+}
